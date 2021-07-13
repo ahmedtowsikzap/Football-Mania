@@ -42,12 +42,44 @@ body{
         
    
 }
-.container{
+.first-container{
 
     display:flex;
     background-color:rgb(69, 15, 194);
     padding-left: 156px;
     padding-top: 100px;
     padding-bottom: 86px;
+    
+}
+
+/* players style */
+.container-2{
+
+    width: 1050px;
+    padding: 100px;
+    margin-top: 21px;
+    border-radius: 5px;
+    margin-left: 90px;
+}
+.player{
+             
+    width: 300px;
+    height: 256px;
+
+}
+.players-picture img{
+
+    width: 300px;
+    height: 256px;
+}
+.legendery-players{
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 45px;
+}
+main{
+    display: flex;
+    flex-direction: column;
     
 }
