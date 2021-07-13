@@ -27,6 +27,7 @@ body{
     border-radius: 5px;
     padding: 8px 38px 8px;
     color: white;
+    flex-direction: row;
 
 
     
