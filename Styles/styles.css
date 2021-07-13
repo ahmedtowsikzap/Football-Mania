@@ -1,0 +1,52 @@
+/* popins fonts importing */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.section-headtitle{
+
+    width: 485px;
+    height: 230px;
+    left: 156px;
+    top: 207px;
+    font-weight: bold;
+    font-size: 64px;
+    color: #FFFFFF;
+    
+
+}
+.button{
+
+    align-items: flex-start;
+    text-decoration: none;
+    background-color: #E02C6D;;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 8px 38px 8px;
+    color: white;
+
+
+    
+    
+}
+.image-slice img{
+
+    height: 438px;
+    width: 556.01px;
+    left: 1299.01px;
+    top: 153px;
+        
+   
+}
+.container{
+
+    display:flex;
+    background-color:rgb(69, 15, 194);
+    padding-left: 156px;
+    padding-top: 100px;
+    padding-bottom: 86px;
+    
+}
